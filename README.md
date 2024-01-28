@@ -1,1 +1,1 @@
-this is my first read me file
+This repo consists of my learnings realted to git & git hub
